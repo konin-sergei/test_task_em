@@ -1,0 +1,1 @@
+const String apiUrl = "https://run.mocky.io";
