@@ -1,6 +1,6 @@
-# Test task
+# Food supermarket
 
-Food supermarket
+Mobile app
 
 ### Libs
 - flutter_bloc
